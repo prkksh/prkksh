@@ -1,7 +1,7 @@
 Hello Folks 👋
 -  I’m Prakash and I’m interested in building something cool
 -  I'm a Java Developer passionate about all things Java
--  I’m currently learning JavaScript and hoping to make some amazing UI
+-  I’m currently learning JavaScript (To see if Atwood's Law holds true ;-))
 
 Technologies & Tools:  
 
