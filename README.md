@@ -1,6 +1,6 @@
 Hello Folks 👋
 -  I’m Prakash, Software Engineer with 3 years experience building enterprise applications, designing microservices architecture, and incredibly interested in building creative solutions using GenAI.
--  Check out my projects (script.io)[https://github.com/prkksh/scriptio] like where I've integrated open AI to AWS lambda to build a code assist software.
+-  Check out my projects [script.io](https://github.com/prkksh/scriptio) like where I've integrated open AI to AWS lambda to build a code assist software.
 -  I’m keenly learning JavaScript (To see if Atwood's Law holds true 😉)
 
 Technologies & Tools:  
